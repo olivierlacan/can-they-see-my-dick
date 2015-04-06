@@ -207,10 +207,19 @@ dt {
   clear: both;
   font-size: 2em;
   margin-top: 2em;
+
+  &:first-child {
+    margin-top: 1em;
+  }
 }
 
 .intro {
   font-size: 1.2em;
+}
+
+.france {
+  @extend .intro;
+  float: right;
 }
 
 .more {
