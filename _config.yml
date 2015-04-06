@@ -1,7 +1,9 @@
 # Site settings
 title: Can They See My Dick?
-description: > # this means to ignore newlines until "baseurl:"
-  Can the US government see your dick pics?
+description: Can the US government see your dick pics?
+call_to_action: >
+  Help the Electronic Frontiers Foundation fight to keep your dick pics private
+  and <a href="https://act.eff.org/action/tell-congress-my-phone-calls-are-my-business-reform-the-nsa">tell the United States Congress to limit the Patriot Act</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cantheyseemydick.com" # the base hostname & protocol for your site
 
