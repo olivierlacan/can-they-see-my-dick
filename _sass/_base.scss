@@ -204,9 +204,16 @@ pre {
 }
 
 dt {
+  clear: both;
   font-size: 2em;
+  margin-top: 2em;
 }
 
 .intro {
   font-size: 1.2em;
+}
+
+.more {
+  float: right;
+  font-weight: bold;
 }
